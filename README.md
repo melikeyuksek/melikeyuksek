@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)
+[![MasterHead](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif align="right")
 
 <h1 align="center">Hi 👋, I'm Melike Yüksek</h1>
 <h3 align="center">Computer Programmer</h3>
@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melikeyuksek&show_icons=true&locale=en&layout=compact" alt="melikeyuksek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melikeyuksek&show_icons=true&locale=en" alt="melikeyuksek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melikeyuksek&" alt="melikeyuksek" /></p>
