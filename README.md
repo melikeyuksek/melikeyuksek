@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif align="right")
+[![MasterHead](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)
 
 <h1 align="center">Hi 👋, I'm Melike Yüksek</h1>
 <h3 align="center">Computer Programmer</h3>
